@@ -1,0 +1,211 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuUtama/MenuAG.unity
+    guid: ad3ee93dd2c761141a408fb8c19ba453
+  - enabled: 1
+    path: Assets/Scenes/MenuUtama/Credit.unity
+    guid: 094c13690b73e6242b7855c9de4c1d28
+  - enabled: 1
+    path: Assets/Scenes/MenuUtama/ChooseGame.unity
+    guid: 435202cbeb310a74ab3b6690c9dd0c3d
+  - enabled: 1
+    path: Assets/Scenes/Game3/Menu.unity
+    guid: 4cc4840dfa97aa944a0f5583f85d8e21
+  - enabled: 1
+    path: Assets/Scenes/Game3/Level.unity
+    guid: df077054a4b866c42ba9a1b45b8b82e5
+  - enabled: 1
+    path: Assets/Scenes/Game3/level1.unity
+    guid: 751684660e8a16448890964289526710
+  - enabled: 1
+    path: Assets/Scenes/Game3/level2.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Game3/level3.unity
+    guid: a13b1b8359dc8654c9deadce3c9f71ab
+  - enabled: 1
+    path: Assets/Scenes/Game3/level4.unity
+    guid: 4f53946a67fbc7247ad662c1de9fa1ae
+  - enabled: 1
+    path: Assets/Scenes/Game3/level5.unity
+    guid: fde98c1ed873a034688c650ee236dceb
+  - enabled: 1
+    path: Assets/Scenes/Game2/MenuGame2.unity
+    guid: e5168e315c7eaf944a602890f275e712
+  - enabled: 1
+    path: Assets/Scenes/Game2/LevelGame2.unity
+    guid: 95b372353d6f88a4180942d2c430019e
+  - enabled: 1
+    path: Assets/Scenes/Game2/Level1Game2.unity
+    guid: 3517d4b32f12fad46bd265448e979a0d
+  - enabled: 1
+    path: Assets/Scenes/Game2/Level2Game2.unity
+    guid: 3b441ca297910be4798e148e0477b231
+  - enabled: 1
+    path: Assets/Scenes/Game2/Level3Game2.unity
+    guid: 94c2b2a57ec84954dae62ed8434296f3
+  - enabled: 1
+    path: Assets/Scenes/Game1/Home.unity
+    guid: b27f4a21429f1fe49aa4a1abfbdf5f75
+  - enabled: 1
+    path: Assets/Scenes/Game1/MenuGame1.unity
+    guid: 8f5fc795a9c579f4aa33f52dd18bab54
+  - enabled: 1
+    path: Assets/Scenes/Game1/1 Jepang/DesJapan.unity
+    guid: 333f90cc504847446a3f7c1f5341cdd7
+  - enabled: 1
+    path: Assets/Scenes/Game1/2 Switzerland/DesSwitzerland.unity
+    guid: 114f35f1b7adda243991b7aa27026e08
+  - enabled: 1
+    path: Assets/Scenes/Game1/3 Indonesia/DesIndonesia.unity
+    guid: c98f6f1cfeff5c74291879d21d2e55b7
+  - enabled: 1
+    path: Assets/Scenes/Game1/4 Saudi/DesSaudiarabia.unity
+    guid: eb6b8ce7b2a63184b82d5fa1827a8a40
+  - enabled: 1
+    path: Assets/Scenes/Game1/5 Russia/DesRussia.unity
+    guid: 4fe7c13051c5a1f488014c783e961283
+  - enabled: 1
+    path: Assets/Scenes/Game1/6 Korea/DesSouthkorea.unity
+    guid: 3fe8747dd5d36824b9fa5a0ed1e266f4
+  - enabled: 1
+    path: Assets/Scenes/Game1/7 Canada/DesCanada.unity
+    guid: d8a291d582b64f0408012d639afb0d5c
+  - enabled: 0
+    path: Assets/Scenes/Game1/8 Australia (false)/DesAustralia.unity
+    guid: f5afda2eee5360947ac7b536c4ef7d03
+  - enabled: 1
+    path: Assets/Scenes/Game1/1 Jepang/QnAJapan.unity
+    guid: b5073a37d5505e54289e4858b5f84f65
+  - enabled: 1
+    path: Assets/Scenes/Game1/2 Switzerland/QnASwitzerland.unity
+    guid: 2ddea23c1454dd04f81baeff09e2dd9e
+  - enabled: 1
+    path: Assets/Scenes/Game1/3 Indonesia/QnAIndonesia.unity
+    guid: 96ef346bc233561439a21a3f2dd44338
+  - enabled: 1
+    path: Assets/Scenes/Game1/4 Saudi/QnASaudiarabia.unity
+    guid: de2be5d9cf893d84ebe13d2b30cc5ecf
+  - enabled: 1
+    path: Assets/Scenes/Game1/5 Russia/QnARussia.unity
+    guid: 3bdc2dc2c6711aa4493b9ac529b8b3f4
+  - enabled: 1
+    path: Assets/Scenes/Game1/6 Korea/QnASouthkorea.unity
+    guid: 14d80b8c55c5d78418d223f3f6a5b12d
+  - enabled: 1
+    path: Assets/Scenes/Game1/7 Canada/QnACanada.unity
+    guid: 030bbc23eb5f44547952a5b1d3341510
+  - enabled: 0
+    path: Assets/Scenes/Game1/8 Australia (false)/QnAAustralia.unity
+    guid: 904ef314764e0ab46a43e8fc2cd74d42
+  - enabled: 1
+    path: Assets/Scenes/Game1/1 Jepang/AutumnJapan.unity
+    guid: e9d50c0fd5bf1594dac9e1e65939a930
+  - enabled: 1
+    path: Assets/Scenes/Game1/1 Jepang/SpringJapan.unity
+    guid: 9f37d69a7d857494d86dbc0087e0ccab
+  - enabled: 1
+    path: Assets/Scenes/Game1/1 Jepang/SummerJapan.unity
+    guid: 1799c5c06d649794687d7a765955b7de
+  - enabled: 1
+    path: Assets/Scenes/Game1/1 Jepang/WinterJapan.unity
+    guid: 03569a9cdfb30534fabe7fbaccbd1216
+  - enabled: 1
+    path: Assets/Scenes/Game1/2 Switzerland/AutumnSwitzerland.unity
+    guid: 0e1fa6671de343d418d7436aca04f055
+  - enabled: 1
+    path: Assets/Scenes/Game1/2 Switzerland/SpringSwitzerland.unity
+    guid: d551d4ef2183e1d4db9eb756e194ab0c
+  - enabled: 1
+    path: Assets/Scenes/Game1/2 Switzerland/SummerSwitzerland.unity
+    guid: dad159603505998419dc42d643b03931
+  - enabled: 1
+    path: Assets/Scenes/Game1/2 Switzerland/WinterSwitzerland.unity
+    guid: 5fd4c5d2367a5c949afc60747b1fa5ee
+  - enabled: 1
+    path: Assets/Scenes/Game1/3 Indonesia/DrySeasonIndonesia.unity
+    guid: d69a1b4ca989bf24d9b9f434ee70a1db
+  - enabled: 1
+    path: Assets/Scenes/Game1/3 Indonesia/RainyIndonesia.unity
+    guid: 8838b752214d53a4ca4cf202ba9ab6a8
+  - enabled: 1
+    path: Assets/Scenes/Game1/4 Saudi/DrySeasonSaudiarabia.unity
+    guid: 1baa092bef599bf4fb6827c56464a86a
+  - enabled: 1
+    path: Assets/Scenes/Game1/4 Saudi/RainySaudiarabia.unity
+    guid: 023edaa95cdac2d4da309b5e17dbbbd0
+  - enabled: 1
+    path: Assets/Scenes/Game1/5 Russia/AutumnRussia.unity
+    guid: 296270f07ae441642b87a2baaf7dc6cd
+  - enabled: 1
+    path: Assets/Scenes/Game1/5 Russia/SpringRussia.unity
+    guid: a2bbe19cf76da7247951c91c74d87775
+  - enabled: 1
+    path: Assets/Scenes/Game1/5 Russia/SummerRussia.unity
+    guid: b8854f5d2bd2ef74b8cddae029252ef9
+  - enabled: 1
+    path: Assets/Scenes/Game1/5 Russia/WinterRussia.unity
+    guid: df2bd262ea0673f43b687cd6bcd97e46
+  - enabled: 1
+    path: Assets/Scenes/Game1/6 Korea/AutumnSouthKorea.unity
+    guid: 5b9e7a41960459b48aa35ce4e5db874b
+  - enabled: 1
+    path: Assets/Scenes/Game1/6 Korea/SpringSouthKorea.unity
+    guid: b35a12c9fc1043e429dc0112e002d8b3
+  - enabled: 1
+    path: Assets/Scenes/Game1/6 Korea/SummerSouthKorea.unity
+    guid: 3e8b9a296c7fcb4418e42659338946fa
+  - enabled: 1
+    path: Assets/Scenes/Game1/6 Korea/WinterSouthKorea.unity
+    guid: cd0e9f3aefd036747bf6248ae89f8a7c
+  - enabled: 1
+    path: Assets/Scenes/Game1/7 Canada/AutumnCanada.unity
+    guid: 73e52dd518c343c43bf2c460420d147b
+  - enabled: 1
+    path: Assets/Scenes/Game1/7 Canada/SpringCanada.unity
+    guid: 51ae95214b7c74e4cbc5976c108b07b8
+  - enabled: 1
+    path: Assets/Scenes/Game1/7 Canada/SummerCanada.unity
+    guid: 7e976153d95e91a44bd65369d1edd4f0
+  - enabled: 1
+    path: Assets/Scenes/Game1/7 Canada/WinterCanada.unity
+    guid: 84b79022e85920349a9329f72c5d0b77
+  - enabled: 0
+    path: Assets/Scenes/Game1/8 Australia (false)/AutumnAustralia.unity
+    guid: 3dcc887ac1c25bd44b66d02cc4e62224
+  - enabled: 0
+    path: Assets/Scenes/Game1/8 Australia (false)/SpringAustralia.unity
+    guid: ae74f5cf06e227b45a41c8030d276a77
+  - enabled: 0
+    path: Assets/Scenes/Game1/8 Australia (false)/SummerAustralia.unity
+    guid: 135c7ac6fb762814dad0ef34310e151b
+  - enabled: 0
+    path: Assets/Scenes/Game1/8 Australia (false)/WinterAustralia.unity
+    guid: bb342b155a08b214fa558470afada77c
+  - enabled: 1
+    path: Assets/Scenes/Game1/8 Australia/DesAustralia.unity
+    guid: 74aa3d20fb964ec4cbfe14e9e4b2196d
+  - enabled: 1
+    path: Assets/Scenes/Game1/8 Australia/QnAAustralia.unity
+    guid: a19eba3a944fa9941b5ac252e9fc3232
+  - enabled: 1
+    path: Assets/Scenes/Game1/8 Australia/SpringAustralia.unity
+    guid: 9ddb573784e0b144591f4b80cbc5adf0
+  - enabled: 1
+    path: Assets/Scenes/Game1/8 Australia/SummerAustralia.unity
+    guid: fa84589611bff6c4e854683d93705873
+  - enabled: 1
+    path: Assets/Scenes/Game1/8 Australia/AutumnAustralia.unity
+    guid: b26fd37645499724e8867e4f2b946726
+  - enabled: 1
+    path: Assets/Scenes/Game1/8 Australia/WinterAustralia.unity
+    guid: ed7b6d7d9c8cf1647b99d77bf6342c5a
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 289c1b55c9541489481df5cc06664110, type: 3}
+  m_UseUCBPForAssetBundles: 0
